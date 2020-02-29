@@ -36,7 +36,7 @@ Gem::Specification.new do |spec|
 
   # Dependencias de la gema
   spec.add_development_dependency "bundler", "~> 1.17.3"
-  spec.add_development_dependency "rake", "~> 12.3.2"
+  spec.add_development_dependency "rake", "~> 13.0.1"
   spec.add_development_dependency "rspec", "~> 3.9"
   spec.add_development_dependency "guard"
   spec.add_development_dependency "coveralls"
